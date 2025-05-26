@@ -16,7 +16,7 @@ Where,
 
 |Symbol|Description|
 |:----:|:----------|
-|TP|True Positive|
-|FP|False Positive|
-|TN|True Negative|
-|FN|False Negative|
+|$TP$|True Positives|
+|$FP$|False Positives|
+|$TN$|True Negatives|
+|$FN$|False Negatives|
